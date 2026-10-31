@@ -50,7 +50,7 @@ Sesuai dengan ketentuan praktikum, berikut adalah akun dan perangkat (_Device ID
 
 ---
 
-## Perintah Pengujian (PowerShell Windows)
+## Perintah Pengujian (CMD VsCode)
 
 ### 1. Login Akun Dosen (Mendapatkan Token JWT)
 
